@@ -31,3 +31,7 @@ l 50,87
 l -100,0
 z
 
+T 0 1100 5 10 0 0 0 0 1
+device=PUMP_MOTOR_VD
+T 700 500 5 10 1 1 0 0 1
+refdes=?
